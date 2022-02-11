@@ -19,7 +19,7 @@ seaborn 0.11.2
 
 * [nyc_taxi_data_challenge.ipynb](nyc_taxi_data_challenge.ipynb): main Jupyter Notebook
 * [nyc_taxi_data_challenge.html](nyc_taxi_data_challenge.html): HTML export from the Jupyter Notebook
-* [manhattan_grid_4e-3.geojson](manhattan_grid_4e-3.geojson): Manhattan grid shapefile with 4e-3 wide rantangle geometries
+* [manhattan_grid_4e-3.geojson](manhattan_grid_4e-3.geojson): Manhattan grid shapefile with 4e-3 degrees wide rantangle geometries
 
 
 ## Authors
@@ -28,7 +28,7 @@ seaborn 0.11.2
 
 ## License
 
-This project is licensed under the Unlicense [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the Unlicense [LICENSE](LICENSE) file for details
 
 ## Acknowledgments
 
