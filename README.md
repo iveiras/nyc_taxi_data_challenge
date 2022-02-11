@@ -1,6 +1,6 @@
 # New York City Yellow Taxi Data Challenge
 
-This study tries to propose and implement a metric for the efficiency of New York City yellow taxis using the [TLC open data for June 2016](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) and [New York borough shapes](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm)
+This study tries to propose and implement a metric for the efficiency of New York City yellow taxis using the [TLC open data for June 2016](https://www1.nyc.gov/site/tlc/about/tlc-trip-record-data.page) and [New York borough shapes](https://data.cityofnewyork.us/City-Government/Borough-Boundaries/tqmj-j8zm).
 
 ## Prerequisites
 
